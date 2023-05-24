@@ -2,6 +2,6 @@
 
 int main(){
     int a = 3;
-    int b = 5;
-    std::cout << a+b;
+    int c = 5;
+    std::cout << a+c;
 }
